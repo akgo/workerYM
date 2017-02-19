@@ -3,3 +3,7 @@
 
 http://www.workerman.net/doc
 http://yaf.laruence.com/manual/index.html
+
+需要的php mode
+yaf
+redis
